@@ -1,0 +1,29 @@
+{
+  "name": "futureforge",
+  "version": "1.0.0",
+  "description": "AI-Powered Skill Optimization & Career Development Platform for Students and Developers",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "start:server": "npm --prefix server start"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "career-development",
+    "skill-analysis",
+    "ats-resume-scanner",
+    "resume-builder",
+    "learning-path",
+    "portfolio-builder",
+    "react",
+    "express",
+    "nodejs",
+    "mongodb",
+    "tailwindcss"
+  ],
+  "author": "Navaneeth P (nava-07)",
+  "license": "MIT"
+}
